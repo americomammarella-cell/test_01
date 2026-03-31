@@ -1,6 +1,8 @@
 import csv
 import os
 
+#Inserisco un commento per testare una commit
+
 # Percorso dei file
 input_file = os.path.join('data', 'file_input.csv')
 output_file = os.path.join('data', 'file_output.csv')
